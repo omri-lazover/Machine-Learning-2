@@ -1,0 +1,21 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Downloaded datasets and local image inputs
+HW1/data/
+HW1/GroceryStoreDataset/
+HW1/birds/
+HW1/dogs/
+HW3/data/
+
+# Generated model weights
+*.pkl
+*.pth
+*.pt
